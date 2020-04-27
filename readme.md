@@ -1,4 +1,4 @@
-# Coronavirus stirbt nach 70 Tagen von allein aus
+# Coronavirus stirbt nach 70 Tagen von alleine aus?
 
 Auf Twitter geistern Meldungen, dass Covid-19 von alleine nach 70 Tagen verschwindet. Quelle dieser Meldung ist die Aussagen eines israelischen Professors der behauptet:
 
