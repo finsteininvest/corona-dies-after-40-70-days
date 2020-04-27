@@ -31,7 +31,7 @@ Frankreich?
 
 Auch diese Grafik unterstützt die These - ich allerdings nicht davon aus, daß nach 70 Tagen die Neuinfektionen bei 0 pro Tag liegen werden.
 
-Schweden galt lange Zeit als Phänomen in Europa. Der Eindruck bestand, daß in diesem Land das Leben wie gewohnt weiterlief und sie trotzdem alles im Griff haben. Nun diese Grafik zeigt eine andere Wahrheit!
+Schweden galt lange Zeit als Phänomen in Europa. Der Eindruck bestand, daß in diesem Land das Leben wie gewohnt weiterlief und sie trotzdem alles im Griff haben. Nun, diese Grafik zeigt eine andere Wahrheit!
 
 ![Sweden](/Images/sweden.png)
 
